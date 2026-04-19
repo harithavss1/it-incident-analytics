@@ -179,3 +179,41 @@ levels would reduce overall breach rate by an estimated
 ---
 
 ## Project Structure
+
+---
+
+## How to Run
+
+```bash
+# clone the repository
+git clone https://github.com/harithavss1/it-incident-analytics
+
+# install dependencies
+pip install pandas numpy matplotlib seaborn jupyter
+
+# download the dataset from UCI
+# https://archive.ics.uci.edu/dataset/498/incident+management+process+enriched+event+log
+# place incident_event_log.csv in the project folder
+
+# launch jupyter lab
+jupyter lab
+```
+
+---
+
+## About the Analyst
+
+**Haritha Vissapragada** — Data Analyst with a background 
+in Site Reliability Engineering and a Masters in Data Science.
+
+This project sits at the intersection of my SRE domain 
+expertise and data analytics skills — giving me the ability 
+to not just analyse IT operations data but to interpret 
+findings with real operational context.
+
+Connect on LinkedIn: linkedin.com/in/haritha-vissapragada-SRE
+
+---
+
+*Dataset sourced from UCI Machine Learning Repository under 
+CC BY 4.0 license. All analysis is original work.*
